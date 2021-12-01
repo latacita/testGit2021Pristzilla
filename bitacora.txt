@@ -6,3 +6,5 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(15)                                La fusión se haría por fast-forward, ya que 
+                                    máster no tiene ninguna versión nueva.
