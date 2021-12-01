@@ -1,8 +1,16 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre): Grela Carrera, Sara                  %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(01)    git clone (url)
+(02)    branch > Paco               Desde sourcetree le damos al botón de 
+                                    "branch" y le ponemos el nombre "Paco"
+(03)    checkout máster             Nos situamos en máster (click derecho en máster y opción de checkout)
+        branch > Lola               porque sourcetree te mueve por defecto a la rama que creas.
+                                    Una vez en máster, damos al botón de "branch" e indicamos el nombre
+                                    de Lola.
+(04)    checkout Paco               Desde sourcetree: click derecho en Paco y opción de checkout.
