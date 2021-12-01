@@ -16,5 +16,12 @@
 (04)    checkout Paco               Desde sourcetree: click derecho en Paco y opción de checkout.
 (15)                                La fusión se haría por fast-forward, ya que 
                                     máster no tiene ninguna versión nueva.
+(16)    git add                     Desde sourcetree, desde "file status" se añade el fichero al área de stage con el botón de +.
+(17)    git Commit                  Desde sourcetree, desde "file status" se añade el mensaje "Paso 17" al recuadro y se le dá
+                                    al botón de "commit".         
+(18)    git merge Paco              Desde sourcetree se le dá click derecho a la rama de Paco y se selecciona la opción 
+                                    "Merge Paco into current branch". La fusión se realiza por recursión, ya que, en esta ocasión,
+                                    sí había cambios en máster. Además, surgen conflictos en el archivo bitacora.txt por haber
+                                    modificado las mismas líneas.                                    
 
 
