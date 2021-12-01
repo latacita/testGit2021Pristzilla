@@ -11,4 +11,17 @@
 (07)   git commit                  Desde sourcetree escribimos en el mensaje de commit 
                                     "Paso 7" y le damos al botón de commit.              
 (08)    Checkout Lola               Desde sourcetree damos click derecho encima de la 
-                                    rama de Lola y le damos a la opción de checkout.                                                                                         
+                                    rama de Lola y le damos a la opción de checkout.
+(10)    git add                      Desde sourcetree nos vamos a "file status"
+                                    y lo añadimos al área de stage.
+(11)   git commit                   Desde sourcetree escribimos en el mensaje de commit 
+                                    "Paso 11" y le damos al botón de commit.  
+(20)    git add                     Desde sourcetree nos vamos a "file status"
+                                    y lo añadimos al área de stage.  
+(21)   git commit                  Desde sourcetree escribimos en el mensaje de commit 
+                                    "Paso 21" y le damos al botón de commit.
+(22)    checkout Lola               Desde sourcetree damos click derecho encima de la 
+                                    rama de Lola y le damos a la opción de checkout.
+(23)                                Habíamos creado un stash en sourcetree con el botón del mismo
+                                    nombre. Ahora damos click derecho sobre ese stash y le damos a la
+                                    opción de "Aplly stash".                                                                                                                                                                                                                                                                                                          
