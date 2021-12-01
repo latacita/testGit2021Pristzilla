@@ -1,8 +1,14 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):  Grela Carrera, Sara                 %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(06)    add bitacora.txt            Desde sourcetree nos vamos a "file status"
+                                    y lo añadimos al área de stage.
+(07)   git commit                  Desde sourcetree escribimos en el mensaje de commit 
+                                    "Paso 7" y le damos al botón de commit.              
+(08)    Checkout Lola               Desde sourcetree damos click derecho encima de la 
+                                    rama de Lola y le damos a la opción de checkout.                                                                                         
